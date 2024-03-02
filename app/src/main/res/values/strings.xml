@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JETCRUD-MVVM</string>
+    <string name="users">Users\n</string>
+    <string name="add_user">Add user</string>
+    <string name="nombre_usuario">Name</string>
+    <string name="correo_usuario">correo</string>
+    <string name="telefono_usuario">telefono</string>
+    <string name="password_usuario">password</string>
+    <string name="ICCID_usuario">ICCID</string>
+</resources>
